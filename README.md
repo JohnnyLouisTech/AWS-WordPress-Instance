@@ -86,8 +86,6 @@ Choose Log in.
 c. You are now signed in to the administration dashboard of your WordPress website where you can perform administrative actions. You can build different website and install packages if you want to.
 
 
-![image](https://github.com/JohnnyLouisTech/AWS-WordPress-Instance/assets/29494723/6a44ca41-19a2-406e-8614-3ec15c4f774c)
-
 ![image](https://github.com/JohnnyLouisTech/AWS-WordPress-Instance/assets/29494723/aa869e07-4447-49de-9957-e4958a04013a)
 
 ![image](https://github.com/JohnnyLouisTech/AWS-WordPress-Instance/assets/29494723/6d0d433e-50f9-4fbe-9ea7-b29655e8b538)
